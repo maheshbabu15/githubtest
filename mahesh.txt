@@ -1,0 +1,6 @@
+class mahesh{
+pulic static void main(string argd[])
+{
+System.out.println("RATHIKINDI MAHESH");
+}
+}
